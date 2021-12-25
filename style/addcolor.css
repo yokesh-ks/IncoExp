@@ -1,0 +1,11 @@
+.radiodes{
+    display: inline-block;
+    padding: 5px 7px;
+    border: 1px solid #ddd;
+    background: #e9ecef;
+    font-size: 14px;
+    line-height: 20px;
+    vertical-align: middle;
+    cursor: pointer;
+    border-radius: 5px;
+}
